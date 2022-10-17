@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 domain: wencst.github.io
-baseurl: "/docs/wencst" # the subpath of your site, e.g. /blog
+baseurl: "/wencst" # the subpath of your site, e.g. /blog
 url: "https://blog.wencst.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wencst1
 github_username:  wencst2
